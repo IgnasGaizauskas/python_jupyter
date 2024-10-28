@@ -1,1 +1,1 @@
-# python_jupyter
+# General python crumbs for interesting ideas
